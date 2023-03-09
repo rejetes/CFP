@@ -18,7 +18,7 @@ body:
   validations:
     required: false
 - type: checkboxes
-  id: rejeté
+  id: rejete
   attributes:
     label: Rejeté ?
     description: Juste pour être sûr
