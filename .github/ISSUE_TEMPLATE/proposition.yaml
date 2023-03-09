@@ -1,0 +1,47 @@
+---
+name: Nouvelle proposition
+description: Proposer un talk rejeté
+labels: [proposition]
+body:
+- type: input
+  id: author
+  attributes:
+    label: Auteur
+    description: Votre vrai nom (ou pas).
+  validations:
+    required: true
+- type: textarea
+  id: bio
+  attributes:
+    label: Votre Bio
+    description: Quelques mots à propos de vous.
+  validations:
+    required: false
+- type: checkboxes
+  id: rejeté
+  attributes:
+    label: Rejeté ?
+    description: Juste pour être sûr
+    options:
+      - label: "Oui"
+        required: true
+      - label: "Oui, trop souvent"
+  validations:
+    required: true
+- type: textarea
+  id: abstract
+  attributes:
+    label: Abstract
+    description: Description de votre talk.
+  validations:
+    required: true
+- type: dropdown
+  id: serial
+  attributes:
+    label: Combien de talks as tu déjà fait ?
+    description: juste pour savoir (la curiosité est un vilain défaut)
+    options:
+      - Jamais
+      - "1"
+      - "moins de 10"
+      - "plus de 10"     
