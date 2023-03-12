@@ -8,7 +8,14 @@ Rien que du nouveau et du jamais vu.
 ## Concept
 
 Même rejeté, un talk peut avoir une grande qualité et apporter de nouvelles perspectives à tous.
-Avec _Rejétés_, nous voulons donner une seconde chance et, qui sait, propulser un sujet.
+Avec _Rejétés_, nous voulons donner une seconde chance.
+
+## Format
+
+Parceque nous souhaitons rejeter le moins de contributions, nous avons choisi un format court pour tous : 20 minutes.
+Mais parceque court est l'inverse de vide, cette synthèse doit permettre de ne conserver que l'essentiel.
+
+Et, parceque _rejetés_ est enregistré, il pourra vous servir à propulser un sujet dans une autre conférence.
 
 ## Appel à Contributions (CFP)
 
