@@ -19,13 +19,13 @@ Tout se fait via une [_Issue_ GitHub](https://github.com/rejetes/CFP/issues/new?
 
 Chaque talk sera évalué suivant plusieurs points :
 
-- Originalité (5pt)
+- Originalité  
   Singularité du sujet, jamais ou peu traité.
-- Innovation (5pt)
+- Innovation  
   Nouvelles idées et façon de faire. En rupture avec l'existant.
-- Technicite (5pt)
+- Technicite  
   Maitrise des concepts et des sous-jacents.
-- Contribution (5pt)
+- Contribution  
   Apport à la communauté : produit, projets, issue, fonctionnalités…
 
 ### Évaluation
@@ -34,11 +34,12 @@ Toutes les contributions seront évaluées publiquement par le _comité de lectu
 Cela se déroulera sur un chan vocal discord et sera retransmis en direct sur Twitch.
 
 Pour chaque proposition, l'évalution se passe ainsi :
+
 - Résumé de l'abstract
 - Questions sur le sujet
 - Débat
 - Si le contributeur est présent et le souhaite: prise de parole pour coriger ou préciser des points
-- Vote par les membres du comité sur chaqu'un des Critères
+- Vote par chaque membre du comité sur chaqu'un des critères :  -2, -1, 0, +1, +2.
 
 La date de passage sera annoncée à chaque contributeur sous la forme d'un commentaire.
 
