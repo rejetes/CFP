@@ -2,6 +2,9 @@
 name: Nouvelle proposition
 description: Proposer un talk rejeté
 labels: [proposition]
+title: "Proposition: "
+assignees:
+  - @rejetes/comite-2023
 body:
 - type: input
   id: author
@@ -26,8 +29,14 @@ body:
       - label: "Oui"
         required: true
       - label: "Oui, trop souvent"
-  validations:
-    required: true
+- type: checkboxes
+  id: first
+  attributes:
+    label: Le talk n'a jamais été présenté ailleurs
+    description: Juste pour être sûr
+    options:
+      - label: "Oui"
+        required: true
 - type: textarea
   id: abstract
   attributes:
