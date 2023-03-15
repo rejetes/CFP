@@ -4,7 +4,7 @@ description: Proposer un talk rejeté
 labels: [proposition]
 title: "Proposition: "
 assignees:
-  - @rejetes/comite-2023
+  - "@rejetes/comite-2023"
 body:
 - type: input
   id: author
