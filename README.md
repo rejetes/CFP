@@ -1,5 +1,8 @@
 # Rejetés
 
+![Discord](https://img.shields.io/discord/1086290876134866964)
+![Twitter Follow](https://img.shields.io/twitter/follow/rejetes?style=social)
+
 Rejeté ? Recyclez !
 
 Une ½ journée de talks technique de qualité rejetés ailleurs.
