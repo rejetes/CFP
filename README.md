@@ -1,6 +1,6 @@
 # Rejetés
 
-[![Discord](https://img.shields.io/discord/1086290876134866964)](https://discord.gg/UDvZZ6FuSK)
+[![Discord](https://img.shields.io/discord/1086290876134866964?label=Discord)](https://discord.gg/UDvZZ6FuSK)
 [![Twitter Follow](https://img.shields.io/twitter/follow/rejetes?style=social)](https://twitter.com/rejetes)
 
 Rejeté ? Recyclez !
