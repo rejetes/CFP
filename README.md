@@ -56,6 +56,8 @@ La date n'a pas encore été défini.
 
 ## Comité de lecture
 
+Si vous souhaitez participer au comité, n'hésitez pas à contacter un des membres !
+
 | ![ArKam](https://avatars.githubusercontent.com/ArKam?v=2&s=200) | ![AtaxyaNetwork](https://avatars.githubusercontent.com/AtaxyaNetwork?v=2&s=200) | ![flemzord](https://avatars.githubusercontent.com/flemzord?v=2&s=200)  |
 | --- | --- | ---- |
 | [ArKam](https://github.com/ArKam) | [AtaxyaNetwork](https://github.com/AtaxyaNetwork) | [flemzord](https://github.com/flemzord) |
