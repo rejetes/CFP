@@ -50,6 +50,10 @@ Pour chaque proposition, l'évalution se passe ainsi :
 
 La date de passage sera annoncée à chaque contributeur sous la forme d'un commentaire.
 
+### Date
+
+La date n'a pas encore été défini. 
+
 ## Comité de lecture
 
 | ![ArKam](https://avatars.githubusercontent.com/ArKam?v=2&s=200) | ![AtaxyaNetwork](https://avatars.githubusercontent.com/AtaxyaNetwork?v=2&s=200) | ![flemzord](https://avatars.githubusercontent.com/flemzord?v=2&s=200)  |
