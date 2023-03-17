@@ -51,6 +51,7 @@ Pour chaque proposition, l'évalution se passe ainsi :
 La date de passage sera annoncée à chaque contributeur sous la forme d'un commentaire.
 
 ### Date
+
 La date n'a pas encore été défini. 
 
 ## Comité de lecture
