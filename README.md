@@ -5,8 +5,8 @@
 
 Rejeté ? Recyclez !
 
-Des sessions d'entrainement et d'accompagnement à la prise de parole en conférence qui finissent par une ½ journée de talks technique rejetés ailleurs.
-Produit communautairement, publiquement et de façon totalement transparente.
+Des sessions d'entrainement et d'accompagnement à la prise de parole en conférence qui aboutissent à une ½ journée de talks technique rejetés ailleurs.
+Produit communautairement, publiquement et de façon totalement transparente, vous êtes le moteur de ce concept qui évolue constamment en fonction de vos apports.
 
 ## Concept
 
